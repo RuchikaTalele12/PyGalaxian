@@ -1,7 +1,5 @@
 # PyGalaxian 
 
-![](https://github.com/shivamshekhar/PyGalaxian/raw/master/Screenshots/1.png)
-
 ### Description:
 A simple vertical space shooter game
 
@@ -25,18 +23,6 @@ To run this game:
 * Destroy all enemies to win the game
 * To exit the game at any point of time, just press ESC key 
 
-
-### Screenshots:
-![](https://github.com/shivamshekhar/PyGalaxian/raw/master/Screenshots/2.png)
-
-![](https://github.com/shivamshekhar/PyGalaxian/raw/master/Screenshots/3.png)
-
-![](https://github.com/shivamshekhar/PyGalaxian/raw/master/Screenshots/4.png)
-
-
-### Developed by: 
-Shivam Shekhar  
-Email: shivam.shekhar.ece14@itbhu.ac.in   
 
 #### Credits:
 * Sprites : http://millionthvector.blogspot.in/p/free-sprites.html
