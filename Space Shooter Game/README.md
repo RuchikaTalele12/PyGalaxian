@@ -1,4 +1,5 @@
 # PyGalaxian 
+https://github.com/RuchikaTalele12/PyGalaxian/blob/main/Space%20Shooter%20Game/Screenshots/1.png
 
 ### Description:
 A simple vertical space shooter game
